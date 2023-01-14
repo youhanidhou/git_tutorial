@@ -7,6 +7,6 @@ def add(x,y):
     return x+y
   return None
   
-#Bob needs to implement this
+#Bob needs to implement this task
 def mult(x,y):
-  return None
+  return x*y
