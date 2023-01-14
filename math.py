@@ -2,6 +2,6 @@
 def add(x,y):
   return x+y
   
-#Bob needs to implement this
+#Bob needs to implement this task
 def mult(x,y):
   return x*y
